@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Creates a PKG for the latest verison of Zotero</string>
 	<key>Identifier</key>
-	<string>com.github.joshua-d-miller.pkg.zotero</string>
+	<string>com.github.el2493.pkg.zotero</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
