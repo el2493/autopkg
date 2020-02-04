@@ -14,9 +14,9 @@
 		<string>%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>SmartGroupTemplate.xml</string>
-    <key>NAME</key>
+    		<key>NAME</key>
 		<string>Mendeley Desktop</string>
-    <key>POLICY_CATEGORY</key>
+    		<key>POLICY_CATEGORY</key>
 		<string>Testing</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
