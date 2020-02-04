@@ -29,6 +29,32 @@
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
 	<string>com.github.hansen-m.pkg.Mendeley</string>
+	<key>ParentRecipeTrustInfo</key>
+	<dict>
+		<key>non_core_processors</key>
+		<dict/>
+		<key>parent_recipes</key>
+		<dict>
+			<key>com.github.hansen-m.download.Mendeley</key>
+			<dict>
+				<key>git_hash</key>
+				<string>2e51046d9f383f2f39d9aee0aef270c44fe946da</string>
+				<key>path</key>
+				<string>~/Library/AutoPkg/RecipeRepos/com.github.autopkg.hansen-m-recipes/Mendeley/Mendeley.download.recipe</string>
+				<key>sha256_hash</key>
+				<string>8e05be2acc44253eac856953b79e799342f2f46093710f06d7cd1da9a5d403b3</string>
+			</dict>
+			<key>com.github.hansen-m.pkg.Mendeley</key>
+			<dict>
+				<key>git_hash</key>
+				<string>0b2afcbda19a32b59f349b2d541d3673fb7dbf59</string>
+				<key>path</key>
+				<string>~/Library/AutoPkg/RecipeRepos/com.github.autopkg.hansen-m-recipes/Mendeley/Mendeley.pkg.recipe</string>
+				<key>sha256_hash</key>
+				<string>fc209d5b70e5bd0a71913189d56878313de833a871bf95eb92512bec7f2b951d</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>Process</key>
 	<array>
 		<dict>
