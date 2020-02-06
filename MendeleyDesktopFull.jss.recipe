@@ -23,7 +23,7 @@
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Mendeley is a free reference manager and academic social network. Make your own fully-searchable library in seconds, cite as you write, and read and annotate your PDFs on any device.</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>Mendeley Desktop.png</string>
+		<string>MendeleyDesktop.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
