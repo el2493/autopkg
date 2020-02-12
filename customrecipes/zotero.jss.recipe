@@ -13,13 +13,13 @@
     		<key>GROUP_NAME</key>
 		<string>%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>SmartGroupTemplate.xml</string>
+		<string>SmartGroupTemplateCustom.xml</string>
     		<key>NAME</key>
 		<string>Zotero</string>
  		<key>POLICY_CATEGORY</key>
 		<string>Testing</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>PolicyTemplate.xml</string>
+		<string>PolicyTemplateCustom.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.</string>
 		<key>SELF_SERVICE_ICON</key>
