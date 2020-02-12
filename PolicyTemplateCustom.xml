@@ -2,6 +2,7 @@
 	<general>
 		<name>%PROD_NAME%-%VERSION%</name>
 		<enabled>false</enabled>
+		<trigger_other>%TRIGGER%</trigger_other>
 		<frequency>Ongoing</frequency>
 		<category>
 			<name>%POLICY_CATEGORY%</name>
