@@ -1,6 +1,6 @@
 <policy>
 	<general>
-		<name>%PROD_NAME% Update</name>
+		<name>%PROD_NAME% Update AP</name>
 		<enabled>true</enabled>
 		<trigger_other>lmupdates</trigger_other>
 		<frequency>Ongoing</frequency>
