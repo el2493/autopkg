@@ -19,7 +19,7 @@
  		<key>POLICY_CATEGORY</key>
 		<string>Testing</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>PolicyTemplateFull.xml</string>
+		<string>PolicyTemplateCustom.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.</string>
 		<key>SELF_SERVICE_ICON</key>
