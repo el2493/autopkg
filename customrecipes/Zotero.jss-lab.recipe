@@ -20,12 +20,8 @@
 		<string>Lab Monthly Updates</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplateLab.xml</string>
-		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.</string>
-		<key>SELF_SERVICE_ICON</key>
-		<string>Zotero.png</string>
 		<key>TRIGGER</key>
-		<string>install_zotero</string>
+		<string>lmupdates</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
