@@ -7,6 +7,10 @@
 		<category>
 			<name>Lab Monthly Updates</name>
 		</category>
+		<site>
+      			<id>2</id>
+      			<name>CUMC IT</name>
+   		</site>
 	</general>
 	<scope>
 		<!--Scope added by JSSImporter-->
