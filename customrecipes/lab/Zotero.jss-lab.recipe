@@ -11,9 +11,9 @@
 		<key>CATEGORY</key>
 		<string>Applications</string>
     		<key>GROUP_NAME</key>
-		<string>lab-%NAME%-update</string>
+		<string></string>
 		<key>GROUP_TEMPLATE</key>
-		<string>SmartGroupTemplateLab.xml</string>
+		<string></string>
     		<key>NAME</key>
 		<string>Zotero</string>
  		<key>POLICY_CATEGORY</key>
