@@ -13,7 +13,7 @@
     		<key>GROUP_NAME</key>
 		<string>%NAME%-update-lab</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>SmartGroupTemplateCustom.xml</string>
+		<string>SmartGroupTemplateLab.xml</string>
     		<key>NAME</key>
 		<string>Zotero</string>
  		<key>POLICY_CATEGORY</key>
