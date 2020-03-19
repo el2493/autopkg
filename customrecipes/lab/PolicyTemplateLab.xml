@@ -13,7 +13,14 @@
    		</site>
 	</general>
 	<scope>
-		<!--Scope added by JSSImporter-->
+		<all_computers>false</all_computers>
+    		<computers/>
+    		<computer_groups>
+      			<computer_group>
+        			<id>31</id>
+        			<name>CUMC Public Student Labs</name>
+      			</computer_group>
+    		</computer_groups>
 	</scope>
 	<package_configuration>
 		<!--Package added by JSSImporter-->
