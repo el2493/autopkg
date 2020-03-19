@@ -11,7 +11,7 @@
 		<key>CATEGORY</key>
 		<string>Applications</string>
     		<key>GROUP_NAME</key>
-		<string>%NAME%-update-lab</string>
+		<string>lab-%NAME%-update</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>SmartGroupTemplateLab.xml</string>
     		<key>NAME</key>
