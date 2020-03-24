@@ -5,7 +5,7 @@
       <key>Description</key>
       <string>Downloads the latest Citrix Workspace version and extracts the package.</string>
       <key>Identifier</key>
-      <string>com.github.rtrouton.pkg.citrixworkspace</string>
+      <string>com.github.el2493.pkg.citrixworkspace</string>
       <key>Input</key>
       <dict>
          <key>NAME</key>
