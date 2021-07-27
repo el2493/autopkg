@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the latest Citrix Workspace disk image.</string>
+	<string>Downloads the latest Citrix Workspace disk image. This is rtrouton's recipe with with different URLTextSearcher</string>
 	<key>Identifier</key>
 	<string>com.github.el2493.download.citrixworkspace</string>
 	<key>Input</key>
